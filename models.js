@@ -1,2 +1,3 @@
 const modelo = ()=>{};
-module.exports=modelo;
+const modelo1=()=>{};
+module.exports={modelo,modelo1};
